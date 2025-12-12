@@ -1,4 +1,11 @@
 body {
     background-color: #1d4221;
-    color
+    color: white;
+    font-family: "Chakra Petch", sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 700px;
+    margin: 0;
 }
+
